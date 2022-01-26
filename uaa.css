@@ -1,0 +1,40 @@
+.topic4{
+    display: flex;
+    justify-content: center;
+    margin: 6px;
+    font-size: 20px;
+    font-family: Monotype Corsiva;
+    color: #F75C1E;
+    background-color:#FDE64B;
+    border: 3px solid #000000 ;
+    border-radius: 30px;
+    text-decoration: underline  double  currentColor  3px ;
+}
+
+.info4{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 8px;
+    padding: 18px;
+    font-size: 25px;
+    font-family: 'Gabriola';
+    color: black;
+    background-color:#FDE64B;
+    border: 3px solid #000000 ;
+}
+
+body{
+    margin: 4px;
+    border: 4px solid black;
+    background-color: #FEE227;
+}
+
+
+a:link{
+    color: #090cb1;
+  }
+  
+  a:visited {
+    color: #a12a0c;
+  }
